@@ -1,5 +1,7 @@
 # Quansheng UV-K5
 
+5W RADIO     
+
 **Frequencies Range**:
 
     F1: 050.0000 - 076.0000 MHz (RX)
