@@ -4,12 +4,14 @@
 
     F1: 050.0000 - 076.0000 MHz (RX)
     FM: 076.0000 - 108.0000 MHz (RX)        - Broadcast FM
-    F2: 108.0000 - 135.9750 MHz (RX AM/FM)  - Air Band
+    F2: 108.0000 - 135.9750 MHz (RX AM/FM)  - Air Band (ATIS)
     F3: 136.0000 - 173.9750 MHz (TX + RX)   - HAM + Sea Bands
     F4: 174.0000 - 349.9750 MHz (TX + RX)   - Sea + SatCom + River Bands
     F5: 350.0000 - 399.9750 MHz (TX + RX)   - River Bands
     F6: 400.0000 - 469.9750 MHz (TX + RX)   - HAM + LPD + PMR Bands
     F7: 470.0000 - 600.0000 MHz (TX + RX)  
+    
+    ATIS, NOAA
     
 **Unlock RX/TX**: 
 
