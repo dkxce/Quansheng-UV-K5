@@ -1,0 +1,3 @@
+Run file position:
+C:\PROGRAM FILES (X86)\QS\PORTABLE RADIO CPS\V1.0.29\PSCPS.EXE
+If you encounter anti -virus software to stop running, add this file to the trust area

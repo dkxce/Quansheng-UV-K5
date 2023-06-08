@@ -1,0 +1,10 @@
+F -> 0 : FM On/Off
+F -> 1 : BAND
+F -> 2 : A/B
+F -> 3 : VFO/MR
+F -> 4 : Freq Counter
+F -> 5 : NOAA
+F -> 6 : Power H/M/L
+F -> 7 : VOX
+F -> 8 : Reverse
+F -> 9 : Call
