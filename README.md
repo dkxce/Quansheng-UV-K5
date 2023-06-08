@@ -9,7 +9,7 @@
     F5: 350.0000 - 399.9750 MHz (TX + RX) - River Bands
     F6: 400.0000 - 469.9750 MHz (TX + RX) - HAM + LPD + PMR Bands
     F7: 470.0000 - 600.0000 MHz (TX + RX)
-    FM-Broadcase: 076.000-108.000 МГц
+    FM-Broadcast: 076.000-108.000 МГц
 
 <img src="Images/k5-002.png"/>      
 <img src="Images/k5-011.jpg"/>      
