@@ -1,4 +1,4 @@
-**Advanced spectrum analyzer mode from dkxce.**    
+**Advanced spectrum analyzer mod from dkxce.**    
 Mod _k5_by_dkxce with Custom Frequency TX/RX: 18..1300 MHz.    
 - TX 027 MHz -> 228 microwatts    
 - TX 054 Mhz -> 2.4 milliwatts    
