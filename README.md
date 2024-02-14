@@ -32,4 +32,6 @@
 <img src="Images/k5-013.jpeg"/>
 <img src="Images/k5-004.png"/>      
 <img src="Images/k5-008.jpg"/>      
-<img src="Images/k5-009.jpg"/>      
+<img src="Images/k5-009.jpg"/>   
+<img src="Images/spectrum.gif"/>   
+<img src="Images/spectrum_fagci.gif"/>   
