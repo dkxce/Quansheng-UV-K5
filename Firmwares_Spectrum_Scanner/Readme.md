@@ -8,7 +8,8 @@ Mod _k5_by_dkxce with Custom Frequency TX/RX: 18..1300 MHz.
 - TX 163 Mhz -> 122 milliwatts    
 - TX 190 Mhz -> 14.8 milliwatts    
 - TX 218 Mhz -> 2 milliwatts    
-- TX 245 Mhz -> 2.6 milliwatts    	
+- TX 245 Mhz -> 2.6 milliwatts
+  
 Starts with the flashlight button. Before starting, either turn off the noise reduction (SQL to 0) or turn on the monitoring mode.     
 - Up / down - frequency change,     
 - 1/7 - sensitivity (measurement time),     
