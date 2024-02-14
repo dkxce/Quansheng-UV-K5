@@ -12,6 +12,11 @@
     F5: 350.0000 - 399.9750 MHz (TX + RX)   - River Bands
     F6: 400.0000 - 469.9750 MHz (TX + RX)   - HAM + LPD + PMR Bands
     F7: 470.0000 - 600.0000 MHz (TX + RX)  
+
+    Modified (see Firmwares_Spectrum_Scanner):  
+        064.0000 - 108.0000 MHz (RX)        - Broadcast FM
+        018.0000 - 13000.00 MHz (TX FM)
+        018.0000 - 13000.00 MHz (RX AM/FM)
     
     ATIS, NOAA
     
@@ -25,6 +30,10 @@
     * 500 -> On     
     * 3350EN -> On     
     * SCREN -> On      
+
+**Upload firmware (mods) mode**:
+
+    PTT+PowerOn
        
 <img src="Images/k5-002.png"/>      
 <img src="Images/k5-011.jpg"/>      
