@@ -45,9 +45,13 @@ PTT / EXIT - exit.
 After exiting, open the menu to refresh the screen. By @piotr022, v78.    
 
 Samples:      
-- https://www.youtube.com/playlist?list=PL67vBSofOrHMyXOEhonOzQz5gJzsZFiDq     
-<img src="../Images/spectrum.gif"/>   
+<img src="../Images/sa001.png"/>    
+<img src="../Images/sa002.png"/>    
+<img src="../Images/sa003.png"/>    
+<img src="../Images/sa004.png"/>    
+<img src="../Images/spectrum.gif"/>    
 <img src="../Images/spectrum_fagci.gif"/>   
+[VIDEO](https://www.youtube.com/playlist?list=PL67vBSofOrHMyXOEhonOzQz5gJzsZFiDq)
 
 **Additional Options:**   
 - Custom Battery icon  
