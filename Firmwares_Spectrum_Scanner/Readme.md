@@ -53,7 +53,7 @@ Samples:
 <img src="../Images/spectrum_fagci.gif"/>   
 [VIDEO](https://www.youtube.com/playlist?list=PL67vBSofOrHMyXOEhonOzQz5gJzsZFiDq)
 
-**Additional Options:**   
+**Additional Options (in all mods):**   
 - Custom Battery icon  
 - Backlight Duration: 2x - up to 10s backlight      
 - Increase Mic Gain    
