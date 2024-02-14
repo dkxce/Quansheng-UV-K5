@@ -33,5 +33,8 @@
 <img src="Images/k5-004.png"/>      
 <img src="Images/k5-008.jpg"/>      
 <img src="Images/k5-009.jpg"/>   
+
+**Spectrum Analyzer Mod**:    
+[Firmwares_Spectrum_Scanner](Firmwares_Spectrum_Scanner)    
 <img src="Images/spectrum.gif"/>   
 <img src="Images/spectrum_fagci.gif"/>   
