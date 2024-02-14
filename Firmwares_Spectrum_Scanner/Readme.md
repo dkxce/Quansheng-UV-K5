@@ -24,3 +24,11 @@ Samples:
 - https://www.youtube.com/playlist?list=PL67vBSofOrHMyXOEhonOzQz5gJzsZFiDq     
 <img src="../Images/spectrum.gif"/>   
 <img src="../Images/spectrum_fagci.gif"/>   
+
+**Additional Options:**   
+- Custom Battery icon  
+- Backlight Duration: 2x - up to 10s backlight      
+- Increase Mic Gain    
+- Custom Frequency Ranges: 18 - 1300 MHz    
+- AM RX on all Bands    
+- FM Radio Frequencies: 64 - 108 MHz    
