@@ -80,3 +80,11 @@ The current VFO/Memory frequency will be the center frequency of the spectrum sw
     `PTT` - switches screen to detail monitoring of last received frequency (see below)
 	
 	
+## BROADCAST FM ##
+
+    `F + 0 FM` or long press 0 FM starts broadcast reception
+    `Exit` or using above start command, when radio is in FM radio mode, ends broadcast reception
+    `F + VFO/MR` or long press `VFO/MR` changes between VFO or memory channels (VFO-/MR-mode)
+
+Pressing `M` in `VFO` mode allows to store the current frequency in a memory channel. Use arrow keys to select memory, confirm with `M`. There are 20 memories available.
+In MR-mode pressing `M` allows to delete that memory channel.
