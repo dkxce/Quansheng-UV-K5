@@ -1,0 +1,3 @@
+https://github.com/nicsure/QuanshengDock
+https://github.com/nicsure/quansheng-dock-fw/tree/main
+https://github.com/dkxce/Quansheng-UV-K5/blob/main/Firmwares_Spectrum_Scanner_II/dkxce_river_v0.3.6/app/messenger.c#L71
