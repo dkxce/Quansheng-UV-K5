@@ -51,3 +51,7 @@
 <img src="Images/sa004.png"/>   
 <img src="Images/spectrum.gif"/>   
 <img src="Images/spectrum_fagci.gif"/>   
+
+**Spectrum Egzumer Mod**:   
+[Firmwares_Spectrum_Scanner_II]([Firmwares_Spectrum_Scanner_II])     
+<img src="Firmwares_Spectrum_Scanner_II/SpectrumKeysEgzumerRu.png"/>
